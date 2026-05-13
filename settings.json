@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "argsmp-DVMQ.aternos.me",
+    "ip": "argsmp-DVMQ.aternos.me:23667",
     "port": 23667,
     "version": "1.21.1"
   },
